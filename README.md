@@ -1,14 +1,19 @@
-# saturday-boilerplate
+# Saturday Boilerplate
 
 [![Depfu](https://badges.depfu.com/badges/1b70410a7764005553d576dd171dce8d/status.svg)](https://depfu.com)
 [![Depfu](https://badges.depfu.com/badges/1b70410a7764005553d576dd171dce8d/count.svg)](https://depfu.com/github/apicgg/vite-mern-template?project_id=38988)
 
 > Simple opinionated boilerplate for MERN stack with Vite and Redux Toolkit.
-> This includes React+TypeScript with familiar configuration for vite.config.ts for front-end and Express+TypeScript for back-end.
+> This includes React+TypeScript with familiar configuration for vite.config.ts
+> for front-end and Express+TypeScript for back-end.
 
-This has been created with the official [Vite](https://vitejs.dev/) template (`npm create vite@latest`) and some extended setup. There are two separate folders called `server` and `client`. The entry point for the backend is `server/src/index.js`.
+This has been created with the official [Vite](https://vitejs.dev/) template
+(`npm create vite@latest`) and some extended setup. There are two separate
+folders called `server` and `client`. The entry point for the backend is
+`server/src/index.js`.
 
-> Thanks to [awesome-vite](https://github.com/vitejs/awesome-vite) for publishing this project.
+> Thanks to [awesome-vite](https://github.com/vitejs/awesome-vite) for
+> publishing this project.
 
 ## Tools
 
@@ -30,7 +35,7 @@ This has been created with the official [Vite](https://vitejs.dev/) template (`n
 ## Installation
 
 ```bash
-npx degit apicgg/vite-mern-template my-app
+git clone git@github.com:tituswe/saturday-boilerplate.git
 ```
 
 ## Install dependencies
